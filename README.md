@@ -102,7 +102,7 @@ RDM achieves competitive results in comparison with previous SoTA models:
 | CelebA-HQ | 256x256    | 47M              | 3.15 |  -   |   -    |   0.77    |  0.55  |
 | ImageNet  | 256x256    | 1250M            | 1.87 | 3.97 | 278.75 |   0.81    |  0.59  |
 
-We provide best pre-trained checkpoints of RDM and their sampler settings for reproducing performance:
+We provide best pre-trained checkpoints of RDM and their sampler settings for reproducing performance (Our pre-trained checkpoints have been released, but it is not convenient to display here due to the double blind principle):
 
 - CelebA-HQ $256\times 256$:
 
